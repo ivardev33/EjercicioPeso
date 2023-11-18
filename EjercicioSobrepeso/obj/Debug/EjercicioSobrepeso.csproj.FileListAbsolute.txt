@@ -1,0 +1,14 @@
+C:\Users\Ivar\Desktop\PROGRAMACION\EjercicioSobrepeso\EjercicioSobrepeso\bin\Debug\EjercicioSobrepeso.exe.config
+C:\Users\Ivar\Desktop\PROGRAMACION\EjercicioSobrepeso\EjercicioSobrepeso\bin\Debug\EjercicioSobrepeso.exe
+C:\Users\Ivar\Desktop\PROGRAMACION\EjercicioSobrepeso\EjercicioSobrepeso\bin\Debug\EjercicioSobrepeso.pdb
+C:\Users\Ivar\Desktop\PROGRAMACION\EjercicioSobrepeso\EjercicioSobrepeso\obj\Debug\EjercicioSobrepeso.csproj.AssemblyReference.cache
+C:\Users\Ivar\Desktop\PROGRAMACION\EjercicioSobrepeso\EjercicioSobrepeso\obj\Debug\EjercicioSobrepeso.csproj.CoreCompileInputs.cache
+C:\Users\Ivar\Desktop\PROGRAMACION\EjercicioSobrepeso\EjercicioSobrepeso\obj\Debug\EjercicioSobrepeso.exe
+C:\Users\Ivar\Desktop\PROGRAMACION\EjercicioSobrepeso\EjercicioSobrepeso\obj\Debug\EjercicioSobrepeso.pdb
+C:\Users\Ivar\Desktop\DAM_PERSONAL\PROGRAMACION\EjercicioSobrepeso\EjercicioSobrepeso\bin\Debug\EjercicioSobrepeso.exe.config
+C:\Users\Ivar\Desktop\DAM_PERSONAL\PROGRAMACION\EjercicioSobrepeso\EjercicioSobrepeso\bin\Debug\EjercicioSobrepeso.exe
+C:\Users\Ivar\Desktop\DAM_PERSONAL\PROGRAMACION\EjercicioSobrepeso\EjercicioSobrepeso\bin\Debug\EjercicioSobrepeso.pdb
+C:\Users\Ivar\Desktop\DAM_PERSONAL\PROGRAMACION\EjercicioSobrepeso\EjercicioSobrepeso\obj\Debug\EjercicioSobrepeso.csproj.AssemblyReference.cache
+C:\Users\Ivar\Desktop\DAM_PERSONAL\PROGRAMACION\EjercicioSobrepeso\EjercicioSobrepeso\obj\Debug\EjercicioSobrepeso.csproj.CoreCompileInputs.cache
+C:\Users\Ivar\Desktop\DAM_PERSONAL\PROGRAMACION\EjercicioSobrepeso\EjercicioSobrepeso\obj\Debug\EjercicioSobrepeso.exe
+C:\Users\Ivar\Desktop\DAM_PERSONAL\PROGRAMACION\EjercicioSobrepeso\EjercicioSobrepeso\obj\Debug\EjercicioSobrepeso.pdb
