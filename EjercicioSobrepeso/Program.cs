@@ -46,12 +46,14 @@ namespace EjercicioSobrepeso
             altura = double.Parse(Console.ReadLine());
 
 
-            double imc= peso/(altura*altura);
+            double imc= peso/((altura/100)*(altura/100));
 
             Console.WriteLine("Tu imc es: {0}",imc);
 
             return imc;
         }
+
+        
             
 
     }
